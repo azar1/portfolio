@@ -9,6 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "@material-ui/core": "^1.5.1",
     "@material-ui/icons": "^1.1.1",
+    "eslint-utils": "^1.4.2",
     "font-awesome": "^4.7.0",
     "gh-pages": "^2.1.1",
     "homepage": "https://azar1.github.io/pr1",
